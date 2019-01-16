@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="query.png">pics/1rightarrow.png</file>
+        <file alias="displayAll.png">pics/2rightarrow.png</file>
+        <file alias="type.png">pics/advanced.png</file>
+        <file alias="add.png">pics/db_add.png</file>
+        <file alias="submit.png">pics/db_comit.png</file>
+        <file alias="delete.png">pics/db_remove.png</file>
+        <file alias="recover.png">pics/db_status.png</file>
+        <file alias="pdf.png">pics/view_sidetree.png</file>
+        <file alias="text.png">pics/view_text.png</file>
+        <file alias="addlist.png">pics/view_right.png</file>
+        <file alias="down.png">pics/down.png</file>
+        <file alias="up.png">pics/up.png</file>
+    </qresource>
+</RCC>
